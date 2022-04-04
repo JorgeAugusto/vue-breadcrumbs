@@ -1,3 +1,4 @@
+⚠️**DEPRECATION NOTICE**: this library is no longer maintained ⚠️
 # Breadcrumbs in VueJS/Quasar
 
 [![NPM version][npm-svg]][npm]
